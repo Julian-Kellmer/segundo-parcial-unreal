@@ -5,7 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/aleco/Documents/Alejo/.FACULTAD DAVINCI/.5QUINTO CUATRIMESTRE/UNREAL ENGINE/.SEGUNDO PARCIAL/segundo-parcial-unreal/Parcial2_Proyecto/Content/Level_Parcial2/Parcial2_Level.umap"
+				"C:/Users/aleco/Documents/Alejo/.FACULTAD DAVINCI/.5QUINTO CUATRIMESTRE/UNREAL ENGINE/.SEGUNDO PARCIAL/segundo-parcial-unreal/Parcial2_Proyecto/Content/Level_Parcial2/Parcial2_Level.umap",
+				"C:/Users/aleco/Documents/Alejo/.FACULTAD DAVINCI/.5QUINTO CUATRIMESTRE/UNREAL ENGINE/.SEGUNDO PARCIAL/segundo-parcial-unreal/Parcial2_Proyecto/Content/ImportedBlenderAssets/SM_Wall_kitchen_1.uasset",
+				"C:/Users/aleco/Documents/Alejo/.FACULTAD DAVINCI/.5QUINTO CUATRIMESTRE/UNREAL ENGINE/.SEGUNDO PARCIAL/segundo-parcial-unreal/Parcial2_Proyecto/Content/ImportedBlenderAssets/SM_Wall_Kitchen_2.uasset",
+				"C:/Users/aleco/Documents/Alejo/.FACULTAD DAVINCI/.5QUINTO CUATRIMESTRE/UNREAL ENGINE/.SEGUNDO PARCIAL/segundo-parcial-unreal/Parcial2_Proyecto/Content/ImportedBlenderAssets/SM_Wall_KitchenWindow_3.uasset",
+				"C:/Users/aleco/Documents/Alejo/.FACULTAD DAVINCI/.5QUINTO CUATRIMESTRE/UNREAL ENGINE/.SEGUNDO PARCIAL/segundo-parcial-unreal/Parcial2_Proyecto/Content/ImportedBlenderAssets/SM_Floor_Kitchen.uasset",
+				"C:/Users/aleco/Documents/Alejo/.FACULTAD DAVINCI/.5QUINTO CUATRIMESTRE/UNREAL ENGINE/.SEGUNDO PARCIAL/segundo-parcial-unreal/Parcial2_Proyecto/Content/ImportedBlenderAssets/SM_Roof_Kitchen_1.uasset",
+				"C:/Users/aleco/Documents/Alejo/.FACULTAD DAVINCI/.5QUINTO CUATRIMESTRE/UNREAL ENGINE/.SEGUNDO PARCIAL/segundo-parcial-unreal/Parcial2_Proyecto/Content/ImportedBlenderAssets/SM_Roof_Kitchen_2.uasset",
+				"C:/Users/aleco/Documents/Alejo/.FACULTAD DAVINCI/.5QUINTO CUATRIMESTRE/UNREAL ENGINE/.SEGUNDO PARCIAL/segundo-parcial-unreal/Parcial2_Proyecto/Content/ImportedBlenderAssets/SM_Wall_KitchenDoor_4.uasset",
+				"C:/Users/aleco/Documents/Alejo/.FACULTAD DAVINCI/.5QUINTO CUATRIMESTRE/UNREAL ENGINE/.SEGUNDO PARCIAL/segundo-parcial-unreal/Parcial2_Proyecto/Content/ImportedBlenderAssets/SM_Corner_Kitchen_1.uasset",
+				"C:/Users/aleco/Documents/Alejo/.FACULTAD DAVINCI/.5QUINTO CUATRIMESTRE/UNREAL ENGINE/.SEGUNDO PARCIAL/segundo-parcial-unreal/Parcial2_Proyecto/Content/ImportedBlenderAssets/SM_Detail_Kitchen_1_top.uasset",
+				"C:/Users/aleco/Documents/Alejo/.FACULTAD DAVINCI/.5QUINTO CUATRIMESTRE/UNREAL ENGINE/.SEGUNDO PARCIAL/segundo-parcial-unreal/Parcial2_Proyecto/Content/ImportedBlenderAssets/SM_Detail_Kitchen_2_middle.uasset",
+				"C:/Users/aleco/Documents/Alejo/.FACULTAD DAVINCI/.5QUINTO CUATRIMESTRE/UNREAL ENGINE/.SEGUNDO PARCIAL/segundo-parcial-unreal/Parcial2_Proyecto/Content/ImportedBlenderAssets/SM_Detail_Kitchen_3_bottom.uasset"
 			]
 		}
 	]
