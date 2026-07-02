@@ -36,18 +36,18 @@
 # Unreal Engine generated files
 *.xcodeproj
 *.xcworkspace
-Binaries/*
+**/Binaries/*
 Plugins/**/Binaries/*
-Build/*
-!Build/*/
-Build/*/**
-!Build/*/PakBlacklist*.txt
-!Build/**/*.ico
+**/Build/*
+!**/Build/*/
+**/Build/*/**
+!**/Build/*/PakBlacklist*.txt
+!**/Build/**/*.ico
 *_BuiltData.uasset
-Saved/*
-Intermediate/*
+**/Saved/*
+**/Intermediate/*
 Plugins/**/Intermediate/*
-DerivedDataCache/*
+**/DerivedDataCache/*
 
 # Source Art
 SourceArt/**/*.png
